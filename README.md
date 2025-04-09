@@ -1,16 +1,40 @@
-## Hi there 👋
+# 🧑‍💻 Agustín Fernández | Estudiante de IA & Ciencia de Datos 📊
 
-<!--
-**Leakyrel-u/Leakyrel-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Sobre mí
+🎓 Estudiante de Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial en IFTS Nº18  
+🚀 Autodidacta y apasionado por la inteligencia artificial y el análisis de datos  
+🔍 En constante aprendizaje de nuevas tecnologías
 
-Here are some ideas to get you started:
+## 🛠 Habilidades técnicas
+🐍 **Python**: Pandas, Scikit-learn, TensorFlow  
+📊 **Visualización**: Seaborn, Matplotlib  
+🗃 **Bases de datos**: SQL  
+🤖 **Machine Learning**: Modelos supervisados y no-supervisados
+🤖 **Deep Learning** Transfer Learning, CNN
+☁ **Despliegue**: Hugging Face Spaces, Gradio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Cursos certificados (Kaggle)
+🏆 Data Visualization  
+🏆 Intro to Machine Learning  
+🏆 Python Programming  
+🏆 Pandas  
+🏆 Data Cleaning
+
+## 🚀 Proyectos destacados
+
+### 🐘 Clasificador de Animales con MobileNetV2
+🛠 **Tecnologías**: TensorFlow, Hugging Face Spaces, Gradio  
+📌 **Descripción**: Clasificador de imágenes de animales usando transfer learning  
+🎯 **Resultados**: Modelo desplegado como demo interactiva 
+🔗 Notebook: https://www.kaggle.com/code/agustinfernandezlr/proyecto-cnn-mobilenetv2
+🔗(https://cnnbear-project.hf.space)
+
+### 📉 Predicción de Churn con Random Forest
+🛠 **Tecnologías**: Scikit-learn, Pandas, Seaborn  
+📌 **Descripción**: Modelo predictivo para identificar clientes en riesgo y analisis de causalidad
+🎯 **Resultados**: Análisis completo desde limpieza hasta optimización 
+🔗 Notebook: https://www.kaggle.com/code/agustinfernandezlr/proyecto-churn
+🔗 Reporte PowerBI: https://github.com/Leakyrel-u/powerbichurnreport/blob/main/churn.pdf
+
+## 📩 Contacto
+✉️ [fernandezagustin744@gmail.com](mailto:fernandezagustin744@gmail.com)  

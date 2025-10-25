@@ -10,7 +10,7 @@
 📊 **Visualización**: Seaborn, Matplotlib  
 🗃 **Bases de datos**: SQL  
 🤖 **Machine Learning**: Modelos supervisados y no-supervisados
-🤖 **Deep Learning** Transfer Learning, CNN
+🤖 **Deep Learning** Transfer Learning, CNN, BERT
 ☁ **Despliegue**: Hugging Face Spaces, Gradio
 
 ## 📜 Cursos certificados (Kaggle)
@@ -21,9 +21,15 @@
 🏆 Data Cleaning
 
 ## 🚀 Proyectos destacados
+### 🎭 Analizador de Sentimiento con DISTILBERT
+🛠 **Tecnologías**: Python, TensorFlow, Hugging Face Spaces, Gradio  
+📌 **Descripción**: Clasificador de oraciones en neutro, positivo y negativo utilizando BERT  
+🎯 **Resultados**: Modelo desplegado como demo interactiva 
+🔗 Notebook: https://www.kaggle.com/code/agustinfernandezlr/proyecto-cnn-mobilenetv2
+🔗https://huggingface.co/spaces/CNNBear/nlp
 
 ### 🐘 Clasificador de Animales con MobileNetV2
-🛠 **Tecnologías**: TensorFlow, Hugging Face Spaces, Gradio  
+🛠 **Tecnologías**: Python, TensorFlow, Hugging Face Spaces, Gradio  
 📌 **Descripción**: Clasificador de imágenes de animales usando transfer learning  
 🎯 **Resultados**: Modelo desplegado como demo interactiva 
 🔗 Notebook: https://www.kaggle.com/code/agustinfernandezlr/proyecto-cnn-mobilenetv2

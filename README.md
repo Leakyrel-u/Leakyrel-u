@@ -1,46 +1,39 @@
-# 🧑‍💻 Agustín Fernández | Estudiante de IA & Ciencia de Datos 📊
+# 🧑‍💻 Agustín Fernández | Data Analyst & Data Engineer 📊
 
 ## 🌟 Sobre mí
-🎓 Estudiante de Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial en IFTS Nº18  
-🚀 Autodidacta y apasionado por la inteligencia artificial y el análisis de datos  
-🔍 En constante aprendizaje de nuevas tecnologías
+🎓 **Técnico Superior en Ciencia de Datos e Inteligencia Artificial** (Egresado)  
+📈 **+8 años de experiencia en Ventas y Gestión Comercial**, actualmente al frente de mi propia PyME.  
+---
 
 ## 🛠 Habilidades técnicas
-🐍 **Python**: Pandas, Scikit-learn, TensorFlow  
-📊 **Visualización**: Seaborn, Matplotlib  
-🗃 **Bases de datos**: SQL  
-🤖 **Machine Learning**: Modelos supervisados y no-supervisados
-🤖 **Deep Learning** Transfer Learning, CNN, BERT
-☁ **Despliegue**: Hugging Face Spaces, Gradio
 
-## 📜 Cursos certificados (Kaggle)
-🏆 Data Visualization  
-🏆 Intro to Machine Learning  
-🏆 Python Programming  
-🏆 Pandas  
-🏆 Data Cleaning
+* **Procesamiento & Pipelines (ETL/ELT):** Python (Pandas, NumPy), Apache Airflow, Google Colab
+* **Bases de datos & Data Warehousing:** SQL, Google BigQuery
+* **Business Intelligence & Visualización:** Power BI, Seaborn, Matplotlib
+* **Análisis de Negocio:** Análisis macroeconómico, validación de hipótesis, métricas comerciales y optimización de procesos
+
+---
 
 ## 🚀 Proyectos destacados
-### 🎭 Analizador de Sentimiento con DISTILBERT
-🛠 **Tecnologías**: Python, TensorFlow, Hugging Face Spaces, Gradio  
-📌 **Descripción**: Clasificador de oraciones en neutro, positivo y negativo utilizando BERT  
-🎯 **Resultados**: Modelo desplegado como demo interactiva 
-🔗 Notebook: https://www.kaggle.com/code/agustinfernandezlr/proyecto-cnn-mobilenetv2
-🔗https://huggingface.co/spaces/CNNBear/nlp
 
-### 🐘 Clasificador de Animales con MobileNetV2
-🛠 **Tecnologías**: Python, TensorFlow, Hugging Face Spaces, Gradio  
-📌 **Descripción**: Clasificador de imágenes de animales usando transfer learning  
-🎯 **Resultados**: Modelo desplegado como demo interactiva 
-🔗 Notebook: https://www.kaggle.com/code/agustinfernandezlr/proyecto-cnn-mobilenetv2
-🔗(https://cnnbear-project.hf.space)
+### 📊 Análisis Macroeconómico de Asia & Diagnóstico Estratégico
+🛠 **Tecnologías**: Python, Pandas, Matplotlib, Seaborn, Google Colab  
+📌 **Descripción**: Estudio analítico enfocado en la evolución macroeconómica de la región asiática. Planteo y validación de hipótesis mediante análisis exploratorio de datos (EDA), identificando patrones clave y proponiendo soluciones accionables.  
+🎯 **Resultados**: Informe analítico completo estructurado con conclusiones cuantitativas y recomendaciones de negocio. 
 
-### 📉 Predicción de Churn con Random Forest
-🛠 **Tecnologías**: Scikit-learn, Pandas, Seaborn  
-📌 **Descripción**: Modelo predictivo para identificar clientes en riesgo y analisis de causalidad
-🎯 **Resultados**: Análisis completo desde limpieza hasta optimización 
-🔗 Notebook: https://www.kaggle.com/code/agustinfernandezlr/proyecto-churn
-🔗 Reporte PowerBI: https://github.com/Leakyrel-u/powerbichurnreport/blob/main/churn.pdf
+### 🛢️ Pipeline de Datos End-to-End & Tablero Comercial *(En desarrollo)*
+🛠 **Tecnologías**: Google BigQuery, SQL, Power BI, Apache Airflow, Python  
+📌 **Descripción**: Arquitectura de datos para la ingesta, transformación y almacenamiento en Data Warehouse (BigQuery). Orquestación de flujos de trabajo orientados a la automatización de métricas de ventas y KPIs de gestión.  
+🎯 **Resultados**: Dashboard interactivo en Power BI alimentado de forma programada para el monitoreo en tiempo real.
 
-## 📩 Contacto
-✉️ [fernandezagustin744@gmail.com](mailto:fernandezagustin744@gmail.com)  
+---
+
+## 📜 Certificaciones
+
+🏆 **Kaggle**: Data Visualization | Intro to Machine Learning | Python | Pandas | Data Cleaning
+
+---
+
+## 📫 Contacto & Redes
+💼 [LinkedIn](https://www.linkedin.com/in/agustín-fernández-81a31b220/)  
+📧 [Tu Email de Contacto](mailto:fernandezagustin744@gmail.com)
